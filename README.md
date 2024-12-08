@@ -2,19 +2,24 @@ Python Video Downloader
 A Python script that downloads videos in 1080p HD quality (if available) from various video websites using the yt-dlp library. The script shows the download progress in percentage and allows users to specify the download location.
 
 Features
-Download in 1080p HD quality (if available).
-Shows download progress in percentage, total bytes downloaded, and estimated time remaining.
-Flexible: Can be used to download videos from any website supported by yt-dlp.
+
+1. Download in 1080p HD quality (if available).
+2. Shows download progress in percentage, total bytes downloaded, and estimated time remaining.
+3. Flexible: Can be used to download videos from any website supported by yt-dlp.
+
 Prerequisites
 Before running the script, make sure you have the following installed on your system:
 
 Python 3.x: Make sure Python 3 is installed.
+
 yt-dlp: The script uses yt-dlp, a command-line program to download videos from various websites. You can install it using pip.
 Install Python 3
+
 You can download and install Python 3 from the official website:
 https://www.python.org/downloads/
 
 Install yt-dlp
+
 Install the yt-dlp library using pip. You can do this by running the following command in your terminal:
 
 bash
